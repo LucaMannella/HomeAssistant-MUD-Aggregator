@@ -1,0 +1,13 @@
+{
+    "domain": "mud_aggregator",
+    "name": "MUD Aggregator",
+    "documentation": "https://github.com/Sarcares/HomeAssistantComponents",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [
+        "getmac",
+        "scapy"
+    ],
+    "iot_class": "local_polling",
+    "version": "0.1.0"
+}
