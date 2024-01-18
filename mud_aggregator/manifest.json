@@ -1,7 +1,7 @@
 {
     "domain": "mud_aggregator",
     "name": "MUD Aggregator",
-    "documentation": "https://github.com/Sarcares/HomeAssistantComponents",
+    "documentation": "https://github.com/LucaMannella/HomeAssistant-MUD-Aggregator",
     "dependencies": [],
     "codeowners": [],
     "requirements": [
