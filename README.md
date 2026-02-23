@@ -7,6 +7,7 @@ An example of MUD snippet is available in the `examples` folder.
 
 **Note**: this is a preliminary version. This is an on-going research activity.
 
+
 ## How to use it
 
 The first thing to do for using the MUD Aggregator is to copy the `mud_aggregator` folder inside `config/custom_components` folder of your Home Assistant.
@@ -29,6 +30,11 @@ button:
     interface: eth0
     deploy: core
 ```
+
+### Configuring a MUD manager
+
+This integration was tested using osMUD deployed on OpenWRT version 17.01.06. To have more information about deploying the MUD manager, look at the [related readme file](osmud-openwrt-pretest-guide.md).
+
 
 ## Citing related papers
 
